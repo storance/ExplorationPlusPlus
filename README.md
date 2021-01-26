@@ -12,7 +12,7 @@ Exploration contracts with a focus on unmanned before manned.  Started with seve
 * Send a Kerbal into Orbit
 * Perform an EVA in Orbit
 * Send a Kerbal into Orbit for 7 days
-* Perform a Rendezvous and Docking in Orbit Around @/homeworld.
+* Perform a Rendezvous and Docking in Orbit
 * Send a Probe on a Fly-By of Celestial Body
 * Send a Probe Into Orbit Around Celestial Body
 * Send a Probe Into Low Orbit Around The Sun
